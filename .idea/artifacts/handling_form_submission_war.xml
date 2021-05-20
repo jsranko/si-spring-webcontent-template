@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="handling-form-submission-0.0.1-SNAPSHOT.war">
+    <root id="archive" name="si-spring-webcontent-template-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="handling-form-submission:war exploded" />
     </root>
   </artifact>

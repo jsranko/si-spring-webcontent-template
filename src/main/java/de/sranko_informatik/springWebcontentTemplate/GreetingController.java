@@ -1,4 +1,4 @@
-package com.example.handlingformsubmission;
+package de.sranko_informatik.springWebcontentTemplate;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
