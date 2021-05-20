@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="handling-form-submission:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>handling-form-submission</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="handling-form-submission-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="handling-form-submission:war exploded" />
+    </root>
+  </artifact>
+</component>
