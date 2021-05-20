@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="handling-form-submission:war exploded">
-    <output-path>$PROJECT_DIR$/target/handling-form-submission-0.0.1-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/target/si-spring-webcontent-template-0.0.1-SNAPSHOT</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -51,7 +51,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/handling-form-submission-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/si-spring-webcontent-template-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="handling-form-submission/web/Web" />
     </root>
